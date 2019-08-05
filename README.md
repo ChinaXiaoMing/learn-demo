@@ -1,2 +1,2 @@
 # learn-demo
-### This is a study project
+### This is a private study project
